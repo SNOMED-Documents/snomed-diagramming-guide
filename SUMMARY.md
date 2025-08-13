@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Diagramming Guideline](README.md)
+* [SNOMED CT Diagramming Specification](README.md)
 * [Introduction](<1 introduction/README.md>)
 * [Diagram Types](3-diagram-types.md)
 * [Diagram Elements](4-diagram-elements.md)

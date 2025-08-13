@@ -1,7 +1,8 @@
 # Appendix
 
-* [Appendix A - Template Expressions](../Appendix-A---Template-Expressions_29951018.html)
-* [Appendix B - Additional Context](../Appendix-B---Additional-Context_29951022.html)
-* [Appendix C - Interactive Browsing Diagrams](../Appendix-C---Interactive-Browsing-Diagrams_29951025.html)
-* [Appendix D - Technical Implementation Guide Examples](../Appendix-D---Technical-Implementation-Guide-Examples_29951029.html)
-* [Appendix E - Diagramming Guideline Templates](../Appendix-E---Diagramming-Guideline-Templates_45528652.html)
+* [appendix-a-template-expressions.md](appendix-a-template-expressions.md "mention")
+* [appendix-b-additional-context.md](appendix-b-additional-context.md "mention")
+* [appendix-c-interactive-browsing-diagrams.md](appendix-c-interactive-browsing-diagrams.md "mention")
+* [appendix-d-technical-implementation-guide-examples.md](appendix-d-technical-implementation-guide-examples.md "mention")
+* [appendix-e-diagramming-guideline-templates.md](appendix-e-diagramming-guideline-templates.md "mention")
+
