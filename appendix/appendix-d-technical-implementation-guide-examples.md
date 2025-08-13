@@ -64,6 +64,3 @@ Would be redrawn as
 
 <figure><img src="../images/29951043.png" alt=""><figcaption><p>Figure Appendix D-18: Redrawn Figure 27 from SNOMED CT TIG section 4.2.2.3.5</p></figcaption></figure>
 
-\*\*
-
-\*\*

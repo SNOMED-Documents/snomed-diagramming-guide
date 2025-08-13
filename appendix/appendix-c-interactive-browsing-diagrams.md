@@ -1,8 +1,6 @@
-# appendix-c-interactive-browsing-diagrams
+# Appendix C - Interactive Browsing Diagrams
 
-## Appendix C - Interactive Browsing Diagrams
-
-Section 3 explores three different forms of diagram for expressing
+[3-diagram-types.md](../3-diagram-types.md "mention") explores three different forms of diagram for expressing
 
 * Expressions
 * Concept definition

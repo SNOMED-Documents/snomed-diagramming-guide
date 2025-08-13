@@ -1,6 +1,4 @@
-# appendix-b-additional-context
-
-## Appendix B - Additional Context
+# Appendix B - Additional Context
 
 Earlier versions of the Diagramming Guideline included a section on providing additional context for concepts in diagrams - that is expanding concepts on diagrams to provide further information or context to a diagram.
 
@@ -14,9 +12,9 @@ A concepts parents may be added to a diagram for context using "Is a" relationsh
 
 Note that this in no way changes the meaning of the diagram, which represents the expression
 
-[429353004 |Injury of radius|](http://snomed.info/id/429353004) + [65966004 |Fracture of forearm|](http://snomed.info/id/65966004) :\
-{ [116676008 |Associated morphology|](http://snomed.info/id/116676008) = [72704001 |Fracture|](http://snomed.info/id/72704001) ,\
-[363698007 |Finding site|](http://snomed.info/id/363698007) = [62413002 |Bone structure of radius|](http://snomed.info/id/62413002) }
+`429353004 |Injury of radius| + 65966004 |Fracture of forearm| :`\
+`{ 116676008 |Associated morphology| = 72704001 |Fracture| ,`\
+`363698007 |Finding site| = 62413002 |Bone structure of radius| }`
 
 ## Full Concept Definition
 

@@ -1,6 +1,4 @@
-# appendix-a-template-expressions
-
-## Appendix A - Template Expressions
+# Appendix A - Template Expressions
 
 This appendix describes potential future changes designed to support template expressions. That is, expressions with predefined variables which when assigned values populate the expression.
 
@@ -24,7 +22,7 @@ Using the "slot" element described in A.1 it is possible to define diagrams that
 
 <figure><img src="../images/29951021.png" alt=""><figcaption><p>Figure Appendix A-1: Example template diagram using "slots"</p></figcaption></figure>
 
-These template diagrams are a specialisation of concept definition diagrams as described in section 3.2; however some of the attribute value concepts are replaced by "slots" making the definition general and reusable.
+These template diagrams are a specialisation of concept definition diagrams as described in section 3.2; however, some of the attribute value concepts are replaced by "slots", making the definition general and reusable.
 
 Note the names provided for the "slots" are enclosed in angle brackets "<" and ">". These slot names are inserted into the name of the concept in the top left of the diagram.
 
