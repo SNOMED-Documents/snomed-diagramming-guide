@@ -119,3 +119,10 @@ Figure 12 shows an expression (top) that subsumes an expression (bottom). Again,
 ***
 
 [^1]: The latest version of the SNOMED CT Compositional Grammar is available at [http://snomed.org/scg](http://snomed.org/scg).
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=SNOMED+Diagramming+Specification&entry.670899847=Diagram%20Types" class="button primary">Provide Feedback</a>

@@ -50,3 +50,10 @@ For example it is common to consider browsing or navigating SNOMED CT purely fro
 Another example scenario is browsing a reference set/s or SNOMED CT content in context of a reference set/s. Again this use case is likely sufficiently at odds with the examples provided in this appendix that an alternate diagram style is required.
 
 As this Diagramming Guideline is focussed on expressions and concept definitions, these and other potential views are out of scope and as yet unexplored formally by this document. Many examples of these renderings exist in the numerous SNOMED CT browsers, and may be left unspecified for the continued innovation of browser vendors, or explored in future versions of the Diagramming Guidelines if considered worthwhile.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=SNOMED+Diagramming+Specification&entry.670899847=Appendix%20C%20-%20Interactive%20Browsing%20Diagrams" class="button primary">Provide Feedback</a>

@@ -15,3 +15,10 @@ The concept definition shown in Figure 25 shows that the concept [`12676007 | Fr
 Figure 26 shows the definition of `| 12676007 | Fracture of radius |` again, however, this time in long normal form and without identifiers. The expression on the right had side of the diagram equates to the text expression - `| 64572001 | Disease | : {116676008 | Associated morphology | = 72704001 | Fracture |, 363698007 | Finding site | = 62413002 | Bone structure of radius |}`
 
 ***
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=SNOMED+Diagramming+Specification&entry.670899847=Examples" class="button primary">Provide Feedback</a>

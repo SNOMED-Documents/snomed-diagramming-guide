@@ -30,3 +30,10 @@ A further suggested visual clarification to either approach specified in section
 * and/or change connectors in segments reflecting "additional context" to use dotted or dashed lines
 
 Is a complementary, not a competing, proposal to those specified in sections B.1 and B.2.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=SNOMED+Diagramming+Specification&entry.670899847=Appendix%20B%20-%20Additional%20Context" class="button primary">Provide Feedback</a>

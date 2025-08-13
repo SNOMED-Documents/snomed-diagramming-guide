@@ -64,3 +64,10 @@ Would be redrawn as
 
 <figure><img src="../images/29951043.png" alt=""><figcaption><p>Figure Appendix D-18: Redrawn Figure 27 from SNOMED CT TIG section 4.2.2.3.5</p></figcaption></figure>
 
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=SNOMED+Diagramming+Specification&entry.670899847=Appendix%20D%20-%20Technical%20Implementation%20Guide%20Examples" class="button primary">Provide Feedback</a>

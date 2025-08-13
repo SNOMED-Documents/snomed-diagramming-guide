@@ -7,3 +7,10 @@ By providing common notation, layout rules, and templates for widely used tools,
 <table data-column-title-hidden data-view="cards"><thead><tr><th data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="1 introduction/">1 introduction</a></td></tr><tr><td><a href="3-diagram-types.md">3-diagram-types.md</a></td></tr><tr><td><a href="4-diagram-elements.md">4-diagram-elements.md</a></td></tr><tr><td><a href="5 layout/">5 layout</a></td></tr><tr><td><a href="6 examples/">6 examples</a></td></tr><tr><td><a href="appendix/">appendix</a></td></tr></tbody></table>
 
 {% include "https://app.gitbook.com/s/5ePKL1wPtOcE6DS3HJBR/~/reusable/MLPTPVV150ldNmCkOl87/" %}
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=SNOMED+Diagramming+Specification&entry.670899847=SNOMED%20CT%20Diagramming%20Specification" class="button primary">Provide Feedback</a>

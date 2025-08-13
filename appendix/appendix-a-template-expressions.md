@@ -27,3 +27,10 @@ These template diagrams are a specialisation of concept definition diagrams as d
 Note the names provided for the "slots" are enclosed in angle brackets "<" and ">". These slot names are inserted into the name of the concept in the top left of the diagram.
 
 The names associated with slots operate as unique variable names for a diagram or set of diagrams. When populated, every slot with the same name on a diagram, or set of related diagrams, receives the same concept value associated with that slot name. Unless all slots names used are assigned concept values, the expression is not complete.
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=SNOMED+Diagramming+Specification&entry.670899847=Appendix%20A%20-%20Template%20Expressions" class="button primary">Provide Feedback</a>

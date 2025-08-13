@@ -42,3 +42,10 @@ In order to address these issues, a diagramming guideline has been created and i
 | ------------------------------- | ---------------------------------------------- |
 | _SNOMED CT Glossary_            | [http://snomed.org/gl](http://snomed.org/gl)   |
 | SNOMED CT Compositional Grammar | [http://snomed.org/scg](http://snomed.org/scg) |
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=SNOMED+Diagramming+Specification&entry.670899847=Introduction" class="button primary">Provide Feedback</a>

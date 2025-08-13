@@ -25,3 +25,10 @@ The elements should be ordered as follows, top to bottom:
 For finer grained ordering of relationships, the sort order defined in the Technical Implementation Guide should be used.
 
 * * *
+
+
+
+
+
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTmbZIf0UEQwYDkY27EEWBkaiYkHSbR0_9DmFrMLXoQLyL7Q/viewform?usp=pp_url&entry.1767247133=SNOMED+Diagramming+Specification&entry.670899847=5%20Layout" class="button primary">Provide Feedback</a>
